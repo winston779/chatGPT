@@ -11,9 +11,9 @@ chatGPT是什么，能看到这篇文章，应该不需要解释了，下面手�
 
 ### 1. 科学上网工具
 
-免费机场：[v2free](https://w1.v2free.top/auth/register?code=UO4o)， 每天签到可以获得免费流量，延迟还可以，适合需求度不高的用户。
+免费机场：[v2free](https://w1.v2free.top/auth/register?code=UO4o)， 每天签到可以获得免费流量，延迟还可以，适合需求量不大的用户。
 
-收费机场：[shadowsocks](https://portal.shadowsocks.au/aff.php?aff=24693), 价格便宜，运行稳定多年，年费￥100左右。
+收费机场：[shadowsocks](https://portal.shadowsocks.au/aff.php?aff=24693)， 价格便宜，运行稳定多年，年费￥100左右。
 
 ### 2. 邮箱
 
