@@ -41,6 +41,36 @@ chatGPT注册时需要提供能接受验证码的手机号，国内手机号是�
 
 上面几步操作完成后我们就可以注册chatGPT了。
 
-1. 打开科学上网软件
+打开科学上网软件，浏览器输入网址 [https://chat.openai.com/chat](https://chat.openai.com/chat)
 
-输入网址 [https://chat.openai.com/chat](https://chat.openai.com/chat)
+点击sign up
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/1.png)
+
+输入刚刚申请的邮箱地址
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/2.png)
+
+输入密码，大于8个字符
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/3.png)
+
+发送邮箱验证码
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/4.png)
+
+打开邮箱，点击验证按钮
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/5.png)
+
+验证成功输入信息
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/6.png)
+
+选择国家和输入刚刚购买的虚拟手机号
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/7.png)
+
+最后输入虚拟手机号网站收到的验证码完成注册.开始chatGPT之旅
+
+![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/8.png)
