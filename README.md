@@ -73,6 +73,6 @@ chatGPT注册时需要提供能接收验证码的手机号，国内手机号是�
 
 ![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/7.png)
 
-最后输入虚拟手机号网站收到的验证码完成注册.开始chatGPT之旅
+最后输入虚拟手机号网站收到的验证码完成注册，开始chatGPT之旅
 
 ![image](https://raw.githubusercontent.com/winston779/chatGPT/main/img/8.png)
